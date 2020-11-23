@@ -32,10 +32,3 @@ body {
 ol, ul {
     border: 1px solid black;
 }
-
-@media(max-width: 1080px) {
-    #wrap {
-        width: 100%;
-        margin: 0 auto;
-    }
-}
